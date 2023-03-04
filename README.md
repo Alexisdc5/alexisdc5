@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hola 🖐 
 
-<!--
-**Alexisdc5/alexisdc5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Mi nombre es Della Costa Alexis.
 
-Here are some ideas to get you started:
+* Actualmente estoy cursando el bootcam Undefined Shell con el objetivo de capacitarme e **introducirme al mundo de la programacion**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Listado de comando principales
+
+| Comandos|              Descripcion                   |
+|---------|--------------------------------------------|
+|ls       | Lista de documentos en el diretorio actual |
+|cd       | Cambiar entre directorios                  |
+|pwd      | Muestra ubicacion actual                   |
+|clear    | Limpia la terminal                         |
+|mkdir    | Crea un nuevo directorio o carpeta         |
+
+### Listado de comandos alias
+
+``` bash 
+fddvdv
+``` 
+``` bash
+fddvdv
+```
