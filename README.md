@@ -1,24 +1,27 @@
 # Hola 🖐 
 
-## Mi nombre es Della Costa Alexis.
+## Mi nombre es Della Costa Alexis
+### Soy residente Argentino, Cordobés de 35 Años.
 
-* Actualmente estoy cursando el bootcam Undefined Shell con el objetivo de capacitarme e **introducirme al mundo de la programacion**.
+* Actualmente estoy cursando el bootcamp Undefined Shell con el objetivo de capacitarme e **introducirme al mundo de la programación**.
 
-### Listado de comando principales
+### Listado de comandos principales
 
-| Comandos|              Descripcion                   |
+| Comandos|              Descripción                   |
 |---------|--------------------------------------------|
 |ls       | Lista de documentos en el diretorio actual |
 |cd       | Cambiar entre directorios                  |
-|pwd      | Muestra ubicacion actual                   |
+|pwd      | Muestra ubicación actual                   |
 |clear    | Limpia la terminal                         |
 |mkdir    | Crea un nuevo directorio o carpeta         |
 
 ### Listado de comandos alias
 
 ``` bash 
-fddvdv
+alias lc='shutdown now'
 ``` 
+* Permite apagar tu máquina. Sin embargo, también puede utilizarse para detenerla y reiniciarla.
 ``` bash
-fddvdv
+uzip='unzip images.zip'
 ```
+* Permite extraer el contenido de un archivo .zip desde el terminal
