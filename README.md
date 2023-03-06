@@ -1,11 +1,12 @@
 # Hola 🖐 
 
-## Mi nombre es Della Costa Alexis
-### Soy residente Argentino, Cordobés de 35 Años.
+## Soy Della Costa Alexis, Argentino, Cordobés de 35 Años.
+
+Me considero una persona dedicada y en continuo crecimiento educativo. 
 
 * Actualmente estoy cursando el bootcamp Undefined Shell con el objetivo de capacitarme e **introducirme al mundo de la programación**.
 
-### Listado de comandos principales
+### 🥇 A continuación les comparto mi listado de comandos principales.
 
 | Comandos|              Descripción                   |
 |---------|--------------------------------------------|
@@ -15,7 +16,7 @@
 |clear    | Limpia la terminal                         |
 |mkdir    | Crea un nuevo directorio o carpeta         |
 
-### Listado de comandos alias
+### 🥇 Y mi listado de comandos alias
 
 ``` bash 
 alias lc='shutdown now'
