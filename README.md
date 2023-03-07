@@ -4,7 +4,7 @@
 
 Me considero una persona dedicada y en continuo crecimiento educativo. 
 
-* Actualmente estoy cursando el bootcamp Undefined Shell con el objetivo de capacitarme e **introducirme al mundo de la programación**.
+* Actualmente estoy cursando el bootcamp Undefined academy con el objetivo de capacitarme e **introducirme al mundo de la programación**.
 
 ### 🥇 A continuación les comparto mi listado de comandos principales.
 
